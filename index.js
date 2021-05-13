@@ -1,7 +1,4 @@
-if (!process.argv.includes("--sharded")){
-    console.log("Please start ManageInvite with the sharder.js file!");
-    process.exit(0);
-}
+
 
 const util = require("util"),
     fs = require("fs"),
