@@ -1,5 +1,5 @@
 module.exports = {
-    token:          "XXXXXXXXXXX",
+    token:          "ODQxNzM0NTY1MDM4Nzg0NTIz.YJrEZg.DOxEZLkbreiJ-CFtd3ChNChw0u0",
     shardCount:     2,
     /* Status */
     statusWebhook: {
